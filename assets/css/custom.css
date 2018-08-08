@@ -3,8 +3,18 @@
 }
 .aspiration{
   font-size:30px;
+  text-align:center;
 }
 .image.avatar48 img {
   width:auto;
   height:100px;
+}
+#nus{
+  width:100%;
+}
+#aboutblock li, p{
+  text-align:left;
+}
+#aboutblock p{
+  margin:0;
 }
