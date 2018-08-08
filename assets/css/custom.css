@@ -5,12 +5,16 @@
   font-size:30px;
   text-align:center;
 }
+.oneliner{
+  text-align:right;
+}
 .image.avatar48 img {
   width:auto;
   height:100px;
 }
 #nus{
   width:100%;
+  margin-top:170px;
 }
 #aboutblock li, p{
   text-align:left;
