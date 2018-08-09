@@ -38,12 +38,20 @@
   margin-left:300px;
 }
 }
+.gucodescription{
+  text-align:justify!important;
+}
+@media screen and (min-width: 600px) {
+#delegate{
+  margin-left:300px;
+}
+}
+.delegatedescription{
+  text-align:justify!important;
+}
 @media screen and (max-width: 600px) {
 .aboutmecontainer{
   width:100px;
-}
-.gucodescription{
-  text-align:justify!important;
 }
 /* .tayninhbutton{
     margin-left: 393px;
