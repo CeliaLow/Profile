@@ -51,7 +51,7 @@
 }
 @media screen and (max-width: 600px) {
 .aboutmecontainer{
-  width:100px;
+  width:100%;
 }
 /* .tayninhbutton{
     margin-left: 393px;
