@@ -49,8 +49,15 @@
 .delegatedescription{
   text-align:justify!important;
 }
+
 @media screen and (max-width: 600px) {
-.aboutmecontainer{
+.cip{
+  width:100%;
+}
+.quote{
+  width:100%;
+}
+.selfintro{
   width:100%;
 }
 /* .tayninhbutton{
