@@ -33,6 +33,7 @@
 #photo3{
   width:100%;
 }
+@media screen and (min-width: 768px) {
 #guco{
   margin-left:300px;
 }
