@@ -37,6 +37,7 @@
 #guco{
   margin-left:300px;
 }
+}
 .gucodescription{
   text-align:justify!important;
 }
@@ -73,6 +74,17 @@
 }
 .selfintro{
   text-align: justify;
+}
+@media screen and (max-width: 600px) {
+.cip{
+  text-align: justify;
+}
+.quote{
+  text-align: justify;
+}
+.selfintro{
+  text-align: justify;
+}
 }
 #skills{
   text-align: justify!important;
