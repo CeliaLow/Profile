@@ -10,7 +10,8 @@
 }
 .image.avatar48 img {
   width:auto;
-  height:100px;
+  height:90px;
+  margin-left: 30px;
 }
 #nus{
   width:100%;
@@ -21,4 +22,16 @@
 }
 #aboutblock p{
   margin:0;
+}
+#about{
+  text-align:justify;
+}
+#photo1{
+  width:100%;
+}
+#photo2{
+  width:100%;
+}
+#photo3{
+  width:100%;
 }
