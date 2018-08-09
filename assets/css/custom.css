@@ -49,7 +49,14 @@
 .delegatedescription{
   text-align:justify!important;
 }
-
+@media screen and (min-width: 600px) {
+#Changebug{
+  margin-left:300px;
+}
+}
+.changebugdescription{
+  text-align:justify!important;
+}
 @media screen and (max-width: 600px) {
 .cip{
   width:100%;
