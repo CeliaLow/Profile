@@ -66,6 +66,9 @@
 .four{
   text-align:justify!important;
 }
+.button{
+  margin-left:393px!important;
+}
 @media screen and (min-width: 600px) {
 #guco{
   margin-left:300px;
@@ -127,9 +130,6 @@
 } */
 #skills{
   text-align: justify!important;
-}
-.button{
-  margin-left:393px;
 }
 .four{
   width:100%;
