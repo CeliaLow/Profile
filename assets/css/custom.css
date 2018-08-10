@@ -67,14 +67,6 @@
   text-align:justify!important;
 }
 @media screen and (min-width: 600px) {
-.button{
-  margin-left:393px!important;
-}
-@media screen and (max-width: 600px) {
-.four{
-width:100%!important;
-}
-@media screen and (min-width: 600px) {
 #guco{
   margin-left:300px;
 }
@@ -100,6 +92,14 @@ width:100%!important;
 #Changebug{
   margin-left:300px;
 }
+}
+@media screen and (min-width: 600px) {
+.button{
+  margin-left:393px!important;
+}
+@media screen and (max-width: 600px) {
+.four{
+width:100%!important;
 }
 @media screen and (max-width: 600px) {
 .cip{
