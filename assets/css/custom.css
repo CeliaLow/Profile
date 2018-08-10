@@ -16,7 +16,7 @@
 }
 #nus{
   width:100%;
-  margin-top:170px;
+  margin-top:70px;
 }
 #aboutblock li, p{
   text-align:left;
@@ -92,7 +92,7 @@
 .tayninh{
   text-align:justify;
 }
-/* .cip{
+.cip{
   text-align: justify!important;
 }
 .quote{
@@ -100,7 +100,7 @@
 }
 .selfintro{
   text-align: justify!important;
-} */
+}
 #skills{
   text-align: justify!important;
 }
@@ -111,5 +111,5 @@
   width:100%;
 }
 .four{
-  text-align:justify;
+  text-align:justify!important;
 }
