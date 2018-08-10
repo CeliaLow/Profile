@@ -111,7 +111,7 @@
   white-space: nowrap;
 } */
 .tayninh{
-  text-align:justify;
+  text-align:justify!important;
 }
 .cip{
   text-align: justify!important;
