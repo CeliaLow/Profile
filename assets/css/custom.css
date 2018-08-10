@@ -33,50 +33,65 @@
 #photo3{
   width:100%;
 }
+.gucodescription{
+  text-align:justify!important;
+}
+.DPdescription{
+  text-align:justify!important;
+}
+.batadescription{
+  text-align:justify!important;
+}
+.SUTDdescription{
+  text-align:justify!important;
+}
+.delegatedescription{
+  text-align:justify!important;
+}
+.changebugdescription{
+  text-align:justify!important;
+}
+.tayninh{
+  text-align:justify!important;
+}
+.cip{
+  text-align: justify!important;
+}
+.quote{
+  text-align: justify!important;
+}
+.selfintro{
+  text-align: justify!important;
+}
+.four{
+  text-align:justify!important;
+}
 @media screen and (min-width: 600px) {
 #guco{
   margin-left:300px;
 }
 }
-.gucodescription{
-  text-align:justify!important;
-}
 @media screen and (min-width: 600px) {
 #Dpinfo{
   margin-left:300px;
-}
-.DPdescription{
-  text-align:justify!important;
 }
 @media screen and (min-width: 600px) {
 #bata{
   margin-left:300px;
 }
-.batadescription{
-  text-align:justify!important;
-}
 @media screen and (min-width: 600px) {
 #sutd{
   margin-left:300px;
-}
-.SUTDdescription{
-  text-align:justify!important;
 }
 @media screen and (min-width: 600px) {
 #delegate{
   margin-left:300px;
 }
 }
-.delegatedescription{
-  text-align:justify!important;
-}
 @media screen and (min-width: 600px) {
 #Changebug{
   margin-left:300px;
 }
-}
-.changebugdescription{
-  text-align:justify!important;
 }
 @media screen and (max-width: 600px) {
 .cip{
@@ -110,18 +125,6 @@
   text-transform: uppercase;
   white-space: nowrap;
 } */
-.tayninh{
-  text-align:justify!important;
-}
-.cip{
-  text-align: justify!important;
-}
-.quote{
-  text-align: justify!important;
-}
-.selfintro{
-  text-align: justify!important;
-}
 #skills{
   text-align: justify!important;
 }
@@ -130,9 +133,6 @@
 }
 .four{
   width:100%;
-}
-.four{
-  text-align:justify!important;
 }
 .image edit{
   width:100%;
