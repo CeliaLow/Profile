@@ -69,6 +69,10 @@
 .button{
   margin-left:393px!important;
 }
+@media screen and (max-width: 600px) {
+.four{
+width:100%!important;
+}
 @media screen and (min-width: 600px) {
 #guco{
   margin-left:300px;
@@ -97,9 +101,6 @@
 }
 }
 @media screen and (max-width: 600px) {
-.four{
-  width:100%;
-}
 .cip{
   width:100%;
 }
