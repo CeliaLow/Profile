@@ -42,6 +42,20 @@
   text-align:justify!important;
 }
 @media screen and (min-width: 600px) {
+#Dpinfo{
+  margin-left:300px;
+}
+.DPdescription{
+  text-align:justify!important;
+}
+@media screen and (min-width: 600px) {
+#sutd{
+  margin-left:300px;
+}
+.SUTDdescription{
+  text-align:justify!important;
+}
+@media screen and (min-width: 600px) {
 #delegate{
   margin-left:300px;
 }
