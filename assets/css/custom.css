@@ -49,6 +49,13 @@
   text-align:justify!important;
 }
 @media screen and (min-width: 600px) {
+#bata{
+  margin-left:300px;
+}
+.batadescription{
+  text-align:justify!important;
+}
+@media screen and (min-width: 600px) {
 #sutd{
   margin-left:300px;
 }
