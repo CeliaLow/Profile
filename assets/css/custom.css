@@ -92,15 +92,15 @@
 .tayninh{
   text-align:justify;
 }
-.cip{
-  text-align: justify;
+/* .cip{
+  text-align: justify!important;
 }
 .quote{
-  text-align: justify;
+  text-align: justify!important;
 }
 .selfintro{
-  text-align: justify;
-}
+  text-align: justify!important;
+} */
 #skills{
   text-align: justify!important;
 }
@@ -109,4 +109,7 @@
 }
 .four{
   width:100%;
+}
+.four{
+  text-align:justify;
 }
