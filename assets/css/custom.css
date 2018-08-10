@@ -66,6 +66,7 @@
 .four{
   text-align:justify!important;
 }
+@media screen and (min-width: 600px) {
 .button{
   margin-left:393px!important;
 }
