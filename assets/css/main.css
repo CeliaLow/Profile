@@ -2042,7 +2042,7 @@ input, select, textarea {
 		color: #fff;
 		height: 100%;
 		left: 0;
-		overflow-y: auto;
+		/* overflow-y: auto; */
 		position: fixed;
 		text-align: right;
 		top: 0;
@@ -2429,7 +2429,7 @@ input, select, textarea {
 				display: block;
 				height: 100%;
 				left: 0;
-				overflow-y: auto;
+				/* overflow-y: auto; */
 				position: fixed;
 				top: 0;
 				width: 275px;
